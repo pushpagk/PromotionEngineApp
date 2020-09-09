@@ -1,0 +1,11 @@
+C:\Users\pushpa_gk\source\repos\PromotionEngine\PromotionEngine\bin\Debug\netcoreapp2.1\PromotionEngine.deps.json
+C:\Users\pushpa_gk\source\repos\PromotionEngine\PromotionEngine\bin\Debug\netcoreapp2.1\PromotionEngine.runtimeconfig.json
+C:\Users\pushpa_gk\source\repos\PromotionEngine\PromotionEngine\bin\Debug\netcoreapp2.1\PromotionEngine.runtimeconfig.dev.json
+C:\Users\pushpa_gk\source\repos\PromotionEngine\PromotionEngine\bin\Debug\netcoreapp2.1\PromotionEngine.dll
+C:\Users\pushpa_gk\source\repos\PromotionEngine\PromotionEngine\bin\Debug\netcoreapp2.1\PromotionEngine.pdb
+C:\Users\pushpa_gk\source\repos\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp2.1\PromotionEngine.csprojAssemblyReference.cache
+C:\Users\pushpa_gk\source\repos\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp2.1\PromotionEngine.csproj.CoreCompileInputs.cache
+C:\Users\pushpa_gk\source\repos\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp2.1\PromotionEngine.AssemblyInfoInputs.cache
+C:\Users\pushpa_gk\source\repos\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp2.1\PromotionEngine.AssemblyInfo.cs
+C:\Users\pushpa_gk\source\repos\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp2.1\PromotionEngine.dll
+C:\Users\pushpa_gk\source\repos\PromotionEngine\PromotionEngine\obj\Debug\netcoreapp2.1\PromotionEngine.pdb
